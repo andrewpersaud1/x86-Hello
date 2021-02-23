@@ -1,4 +1,3 @@
-;Andrew Persaud (23627628)
 ;To assemble and run:
 ;	nasm -f elf task_2.asm
 ;	ld -m elf_i386 task_2.o -o task_2
