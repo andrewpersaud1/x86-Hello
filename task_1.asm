@@ -18,5 +18,5 @@ exit:		mov		eax,1		;System call number for exit
 		int 80h				;Request for an interuption
 
 		section 	.data
-message:	db 		"Andrew Persaud 23627628 CC2", 0Ah
+message:	db 		"name id number section", 0Ah
 
